@@ -12,4 +12,6 @@ Libraries Used:
 5. Streamlit 
 6. Pickle 
 7. Requests  
+
+Dataset Used: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 Hosted the website on Heroku app Link:  https://movie-recommender-system-kunal.herokuapp.com/
